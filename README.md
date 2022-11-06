@@ -38,13 +38,15 @@ Run app
 
 ## Roadmap
 
+[![trello](https://img.shields.io/badge/Trello-Kanban-blue)](https://trello.com/b/tQnSyvYf/stock-tracker)
+
 #### Release 1 - Basic Functionality
 
-- Create basic application layout
+- ~~Create basic application layout~~
 
-- Get overall portfolio value
+- ~~Get overall portfolio value~~
 
-- Get value per ticker
+- ~~Get value per ticker~~
 
 - Get profit/loss per ticker
 
