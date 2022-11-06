@@ -1,0 +1,30 @@
+{
+    "META": [
+        {
+            "id": 1,
+            "share_amount": 1,
+            "price": 95.0,
+            "currency": "USD",
+            "date_purchased": "2022-01-01",
+            "time_purchased": "12:00"
+        },
+        {
+            "id": 2,
+            "share_amount": 0.75,
+            "price": 92.5,
+            "currency": "USD",
+            "date_purchased": "2022-01-01",
+            "time_purchased": "12:00"
+        }
+    ],
+    "AMZN": [
+        {
+            "id": 3,
+            "share_amount": 1,
+            "price": 90.0,
+            "currency": "USD",
+            "date_purchased": "2022-01-01",
+            "time_purchased": "12:00"
+        }
+    ]
+}
